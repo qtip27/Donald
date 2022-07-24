@@ -19,7 +19,7 @@
 [<img align="left" alt="DonaldHunter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [https://www.linkedin.com/in/donald-hunter-000b2394/]
+[linkedin]: https://www.linkedin.com/in/donald-hunter-000b2394/
 
 
 
