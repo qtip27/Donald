@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber/Cloud Security Projects:</h2>
 
-- [Terraform with Cloud Security and Ansible (Completed)](https://thecyberjorney.com/index.php/2022/07/09/sneak-preview-of-whats-coming/)
+- [Terraform with Cloud Security and Ansible (Completed)](https://thecyberjorney.com/index.php/2022/08/13/project-terraform/)
 - [Deep Dive into Cloud Security](https://thecyberjorney.com/index.php/2022/06/06/deep-dive-into-aws-security/)
 - [Intrusion Prevention System (IPS) Using Snort](https://thecyberjorney.com/index.php/2021/07/21/snort-lab-from-my-bootcamp/)
 - [Network Forensics with Network Miner](https://thecyberjorney.com/index.php/2021/10/17/network-forensics-with-network-miner/)
