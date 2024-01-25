@@ -13,6 +13,7 @@
 <h2> 📄 Certifications </h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a0e5a31f-6d80-4bfa-be1c-1350b631ab40?source=linked_in_profile)
+- [Azure Fundumentals]( https://learn.microsoft.com/api/credentials/share/en-us/DonaldSHunterJr-2092/59A41A83D91B7C45?sharingId=B618022FAA6E8470)
   
 <h2> 🤳 Connect with me:</h2>
 
