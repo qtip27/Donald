@@ -2,13 +2,8 @@
 
 <h2>👨‍💻 Cyber/Cloud Security Projects:</h2>
 
-- [Terraform with Cloud Security and Ansible (Completed)](https://www.youtube.com/watch?v=jDTmHsGLl5g)
-- [Deep Dive into Cloud Security](https://thecyberjorney.com/index.php/2022/06/06/deep-dive-into-aws-security/)
-- [Intrusion Prevention System (IPS) Using Snort](https://thecyberjorney.com/index.php/2021/07/21/snort-lab-from-my-bootcamp/)
-- [Network Forensics with Network Miner](https://thecyberjorney.com/index.php/2021/10/17/network-forensics-with-network-miner/)
-- [Learning Security Information and Event Management (SIEM) with Elasticsearch (also known as the ELK Stack)](https://thecyberjorney.com/index.php/2021/11/15/elk-stack-siem/)
-- [Identity, and Access Management (IAM) on Amazon Web Services (AWS)](https://thecyberjorney.com/index.php/2021/11/23/identity-and-access-management-iam-on-amazon-web-services-aws/)
-- [AWS Elastic File System with Cloud Watch Lab](https://thecyberjorney.com/index.php/2021/12/12/aws-elastic-file-system-with-cloud-watch-lab/)
+- [Terraform with Cloud Security and Ansible](https://www.youtube.com/watch?v=jDTmHsGLl5g)
+- [AWS Docker Project] 
 
 <h2> 📄 Certifications </h2>
 
