@@ -8,6 +8,9 @@
 ## Open AI Policies: 
 - [Click here to see Open AI Security and Compliance Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
 
+## Azure Powershell Commands
+- [Click here to see Azure Powershell Commands](https://github.com/qtip27/PowerShell-CMD)
+
 ## 📄 Certifications:
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a0e5a31f-6d80-4bfa-be1c-1350b631ab40?source=linked_in_profile)
