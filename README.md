@@ -11,6 +11,9 @@
 ## Azure Powershell Commands
 - [Click here to see Azure Powershell Commands](https://github.com/qtip27/PowerShell-CMD)
 
+## Azure Sentinel KQL Queries
+- [Click here to see Custom Security Queries](https://github.com/qtip27/KQL_Queries/tree/main)
+
 ## 📄 Certifications:
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a0e5a31f-6d80-4bfa-be1c-1350b631ab40?source=linked_in_profile)
