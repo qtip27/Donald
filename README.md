@@ -6,7 +6,7 @@
 - [AWS Docker Project](https://github.com/qtip27/AWSDockerProject)
 
 ## Open AI Policies: 
-- [Click here to see Open AI Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
+- [Click here to see Open AI Security and Compliance Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
 
 ## 📄 Certifications:
 
