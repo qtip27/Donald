@@ -5,6 +5,9 @@
 - [Terraform with Cloud Security and Ansible](https://www.youtube.com/watch?v=jDTmHsGLl5g)
 - [AWS Docker Project](https://github.com/qtip27/AWSDockerProject)
 
+## Articles
+- [Automating Log Collection from Azure Virtual Machines](https://medium.com/@donaldhunter5/automating-log-collection-from-azure-virtual-machines-019079cc7ffd)
+
 ## Open AI Policies: 
 - [Click here to see Open AI Security and Compliance Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
 
