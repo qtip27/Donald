@@ -6,7 +6,7 @@
 - [AWS Docker Project](https://github.com/qtip27/AWSDockerProject)
 
 ## Articles
-- [Automating Log Collection from Azure Virtual Machines {Updated}]([https://medium.com/@donaldhunter5/automating-log-collection-from-azure-virtual-machines-019079cc7ffd](https://medium.com/@cloudsecguy97/automating-log-collection-from-azure-virtual-machines-019079cc7ffd)
+- [(Updated)Automating Log Collection from Azure Virtual Machines]([https://medium.com/@donaldhunter5/automating-log-collection-from-azure-virtual-machines-019079cc7ffd](https://medium.com/@cloudsecguy97/automating-log-collection-from-azure-virtual-machines-019079cc7ffd)
 
 ## Open AI Policies: 
 - [Click here to see Open AI Security and Compliance Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
