@@ -7,6 +7,7 @@
 
 ## Articles
 - [Automating Log Collection from Azure Virtual Machines](https://medium.com/@cloudsecguy97/automating-log-collection-from-azure-virtual-machines-019079cc7ffd)
+- [Establishing a Secure Hybrid Network: Connecting On-Premise Infrastructure to Azure with VPN Gateway](https://medium.com/@cloudsecguy97/establishing-a-secure-hybrid-network-connecting-on-premise-infrastructure-to-azure-with-vpn-59e7a9c78c9b)
 
 ## Open AI Policies: 
 - [Click here to see Open AI Security and Compliance Policies](https://github.com/qtip27/MicrosoftOpenAI/blob/main/README.md)
