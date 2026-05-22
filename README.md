@@ -4,7 +4,7 @@
 
 - [Terraform with Cloud Security and Ansible](https://www.youtube.com/watch?v=jDTmHsGLl5g)
 - [AWS Docker Project](https://github.com/qtip27/AWSDockerProject)
-- [Cloud Security VPN Project(https://medium.com/@cloudsecguy97/establishing-a-secure-hybrid-network-connecting-on-premise-infrastructure-to-azure-with-vpn-59e7a9c78c9b)]
+- [Cloud Security VPN Project](https://medium.com/@cloudsecguy97/establishing-a-secure-hybrid-network-connecting-on-premise-infrastructure-to-azure-with-vpn-59e7a9c78c9b)
 
 ## Articles
 - [Automating Log Collection from Azure Virtual Machines](https://medium.com/@cloudsecguy97/automating-log-collection-from-azure-virtual-machines-019079cc7ffd)
